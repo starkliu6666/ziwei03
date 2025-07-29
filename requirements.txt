@@ -1,3 +1,5 @@
 flask
 flask-cors
 py-iztro
+request
+jsonify
